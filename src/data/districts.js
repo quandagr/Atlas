@@ -83,6 +83,30 @@ export const districts = [
     accent: "border-rose-500",
     position: "right-[20%] top-[60%]",
   },
+  {
+  id: "career-center",
+  name: "Career Center",
+  icon: "📄",
+  tagline: "Prepare. Connect. Succeed.",
+  summary:
+    "Recruiter-ready ATS resumes, tailored cover letters, interview preparation, STAR stories, downloadable career resources, and professional branding materials.",
+  href: "/career-center",
+  color: "cyan",
+  accent: "border-cyan-500",
+  position: "left-[42%] top-[82%]",
+},
+{
+  id: "learning-center",
+  name: "Learning Center",
+  icon: "🌱",
+  tagline: "Learn. Adapt. Grow.",
+  summary:
+    "Continuous learning through certifications, technical labs, current projects, future goals, research, and lifelong professional development.",
+  href: "/learning-center",
+  color: "lime",
+  accent: "border-lime-500",
+  position: "right-[42%] top-[82%]",
+},
 ];
 
 export default districts;
