@@ -1,0 +1,55 @@
+:root {
+
+  /* ==========================
+     Atlas Primary Colors
+  ========================== */
+
+  --atlas-navy: #0B132B;
+  --atlas-steel: #4B5563;
+  --atlas-white: #F8FAFC;
+
+  /* ==========================
+     Atlas Signature
+  ========================== */
+
+  --atlas-gold: #F59E0B;
+  --atlas-orange: #EA580C;
+  --atlas-purple: #6D28D9;
+
+  /* ==========================
+     District Accent Colors
+  ========================== */
+
+  --healthcare: #10B981;
+  --technology: #0EA5E9;
+  --education: #8B5CF6;
+  --innovation: #F59E0B;
+  --library: #6366F1;
+  --entrepreneurship: #F43F5E;
+  --career: #06B6D4;
+  --learning: #7C3AED;
+  --founders: #D97706;
+
+}
+
+.atlas-background{
+
+background:
+linear-gradient(
+135deg,
+
+#4B5563 0%,
+
+#F8FAFC 18%,
+
+#F59E0B 42%,
+
+#EA580C 60%,
+
+#6D28D9 82%,
+
+#0B132B 100%
+
+);
+
+}
